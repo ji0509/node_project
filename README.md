@@ -38,4 +38,4 @@
 
 ## crypto-js
 ### 양방향 암호화 모듈
--> npm install crypto-js
+-> npm install crypto-js"# node_project" 
