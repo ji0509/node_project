@@ -1,41 +1,29 @@
-# 라이브러리 리스트
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Node%20Project&fontSize=50)
 
-## express
-### 서버 구축
--> npm install express
+# <div align="center">💻Tech Stack💻</div>
 
-## nodemon
-### 소스 변경 감지 시 서버 자동 재기동
--> npm install nodemon
+#####  <div align="center">📌Platforms & Languages</div>
+<div align="center" dir="auto">
+  <img src="https://img.shields.io/badge/node-339933?style=flat&amp;logo=Node.js&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&amp;logo=Oracle&amp;logoColor=white"/>
+</div>
 
-## pm2
-### 백그라운드에서 서버 기동(nodemon 과 연동하여 실행)
--> npm install -g pm2
+#####  <div align="center">📌Tools</div>
+<div align="center" dir="auto">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&amp;logo=VisualStudioCode&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/EditPlus-90E59A?style=flat&amp;logoColor=white"/>
+</div>
 
-## better-module-alias
-### import, require 등 에서 경로 지정 간소화
--> npm install better-module-alias
+#####  <div align="center">📌Library</div>
+<div align="center" dir="auto">
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&amp;logo=Nodemon&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat&amp;logo=JSON%20Web%20Tokens&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/morgan-F94877?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/bindSqlString-FFE800?style=flat&amp;logoColor=white"/>
+</div>
 
-## jsonwebtoken
-### 사용자 인증 시 토큰 발급, 토큰 검증으로 인한 사용자 검증
--> npm install jsonwebtoken
-
-## cookie-parser
-### 요청 Header 쿠키 값 JSON Parse
--> npm install cookie-parser
-
-## winston-daily-rotate-file
-### 서버 로그 관리 모듈
--> npm install winston-daily-rotate-file
-
-## morgan
-### 서버 요청, 응답 로그 관리 모듈
--> npm install morgan
-
-## bind-sql-string
-### 바인딩 된 쿼리 디버그 모듈
--> npm install bind-sql-string
-
-## crypto-js
-### 양방향 암호화 모듈
--> npm install crypto-js"# node_project" 
+<br/><br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji0509&layout=compact">
+ </div>
